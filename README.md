@@ -1,2 +1,2 @@
 # EEC-592-ROS
-All prom this semester
+All stuffs in this semester
